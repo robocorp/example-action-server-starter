@@ -1,0 +1,8 @@
+condaConfigFile: conda.yaml
+artifactsDir: output
+ignoreFiles:
+  - .gitignore
+PATH:
+  - .
+PYTHONPATH:
+  - .
