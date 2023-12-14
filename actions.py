@@ -1,9 +1,10 @@
-from robocorp.actions import action
 from datetime import datetime
+
+from robocorp.actions import action
 
 
 @action
-def get_current_date():
+def get_current_date() -> str:
     """
     Returns the current date in ISO format.
     """
