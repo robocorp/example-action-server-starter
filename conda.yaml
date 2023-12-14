@@ -8,5 +8,4 @@ dependencies:
   - pip=23.2.1 # https://pip.pypa.io/en/stable/news
   - robocorp-truststore=0.8.0 # https://pypi.org/project/robocorp-truststore/
   - pip:
-      - rpaframework==27.7.0 # https://rpaframework.org/releasenotes.html
-      - robocorp-actions==0.0.1
+      - robocorp-actions==0.0.2
